@@ -24,6 +24,7 @@ module.exports = {
                 '',
                 'VsCode',  /* /foo/one.html */
                 'Vue',   /* /foo/two.html */
+                'Code'
             ],
             // fallback
             '/': [
